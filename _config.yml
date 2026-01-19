@@ -1,11 +1,9 @@
 title: MH-SOAR+ User Guide
 description: Store Crew User Guide for MH-SOAR+
 
-remote_theme: just-the-docs/just-the-docs
+theme: minimal-mistakes-jekyll
+plugins:
+  - jekyll-include-cache
 
 url: https://kei0506.github.io
 baseurl: /mh-soar-plus-user-guide
-
-just_the_docs:
-  navigation_depth: 3
-  search_enabled: true
