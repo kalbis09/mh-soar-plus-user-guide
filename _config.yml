@@ -1,9 +1,24 @@
 title: MH-SOAR+ User Guide
-description: Store Crew User Guide for MH-SOAR+
+description: Store Crew Documentation
 
 theme: minimal-mistakes-jekyll
+
 plugins:
   - jekyll-include-cache
 
-url: https://kei0506.github.io
-baseurl: /mh-soar-plus-user-guide
+navigation:
+  items:
+    - title: Introduction
+      url: /
+    - title: Getting Started
+      url: /getting-started/
+    - title: Creating an Order
+      url: /creating-an-order/
+    - title: Reviewing the Order
+      url: /reviewing-the-order/
+    - title: Payment
+      url: /payment/
+    - title: After Order
+      url: /after-order/
+    - title: Help
+      url: /help/
