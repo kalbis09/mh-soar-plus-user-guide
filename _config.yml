@@ -1,7 +1,7 @@
 title: MH-SOAR+ User Guide
 description: Store Crew Documentation
 
-theme: minimal-mistakes-jekyll
+remote_theme: mmistakes/minimal-mistakes
 
 plugins:
   - jekyll-include-cache
