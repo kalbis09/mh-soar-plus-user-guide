@@ -1,4 +1,4 @@
-## SOAR Templates (Supervisor Access)
+# SOAR Templates (Supervisor Access)
 
 **SOAR Templates** control which items appear—and in what order—when using:
 
