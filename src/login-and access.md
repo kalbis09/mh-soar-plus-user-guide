@@ -1,4 +1,4 @@
-Login and Access
+# Login and Access
 
 To use **MH-SOAR+**, you must log in using your assigned credentials.
 
