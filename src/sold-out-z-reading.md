@@ -1,4 +1,4 @@
-## Sold Out / Z-Reading
+# Sold Out / Z-Reading
 
 The **Sold Out / Z-Reading** feature is used to record the **daily sales summary** of the store.
 
