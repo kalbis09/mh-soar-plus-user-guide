@@ -1,105 +1,104 @@
 # Login and Access
 
-To use **MH-SOAR+**, you must log in using your assigned credentials.
+Para magamit ang **MH SOAR+ Next**, kailangan munang mag-login gamit ang **assigned credentials**.
 
-This ensures that:
+Ginagawa ito para:
+- Ma-record ang transactions sa **tamang store/branch**
+- Ma-track nang maayos ang activities
+- Masigurong **authorized users lamang** ang may access sa system
+    
+---
 
-- orders are recorded under the correct store
+## Paano mag-login sa MH SOAR+ Next
+
+<video width="100%" controls>
+  <source src="videos/login-and-access.mov" type="video/quicktime">
+</video>
+
+Sundin ang mga steps na ito:
+
+1. Buksan ang **MH SOAR+ Next** app
+2. I-enter ang iyong **username** at **password**
+3. Piliin ang **branch** na naka-assign sa’yo
+4. I-tap ang **Log In**
     
-- activities are properly tracked
-    
-- access is limited to authorized users only
-    
+Kapag successful ang login, mapupunta ka sa **main screen** ng app.
 
 ---
 
-### How to log in to MH-SOAR+
+## Pagpili ng Branch
 
-Follow these steps to log in:
+Pagkatapos i-enter ang credentials, hihingan ka ng system na **pumili ng branch**.
 
-1. Open the **MH-SOAR+ app**
+- Ang branch ang magsasabi kung **saan mai-record ang orders at records**
     
-2. Enter your **username** and **password**
+- Ang lalabas lang na branches ay **yung authorized ka**
     
-3. Select the **branch** you are assigned to
-    
-4. Tap **Log In**
-    
-
-Once logged in successfully, you will be taken to the main screen of the app.
-
----
-
-### Selecting a branch
-
-After entering your credentials, you will be asked to **select a branch**.
-
-- The branch determines **where orders will be recorded**
-    
-- Only branches you are authorized for will appear
-    
-- Make sure you select the **correct branch before logging in**
+- Siguraduhing **tama ang branch** bago mag-proceed
     
 
 > ⚠️ **Important**  
-> Creating orders under the wrong branch may cause reporting and tracking issues.
+> Kapag maling branch ang napili, maaaring magka-problema sa reports at records.
 
 ---
 
-### Offline access
+## Offline Access
 
-MH-SOAR+ supports **offline access**, but with an important requirement.
+May **offline access** ang **MH SOAR+ Next**, pero may **importanteng requirement**.
 
-#### When offline access is allowed
+### Kailan pwede ang offline access
 
-You can use MH-SOAR+ **offline** if:
+Pwede mong gamitin ang app kahit walang internet kung:
 
-- You have **successfully logged in online at least once**
+- Nakapag-login ka na **kahit isang beses online**
     
-- The app has already verified your credentials
+- Na-verify na ng system ang iyong credentials
     
 
-Once this is done, the app can be opened and used even without an internet connection.
+Kapag na-meet ito, pwede nang buksan at gamitin ang app kahit offline.
 
 ---
 
-#### When offline access is **not** allowed
+### Kailan hindi pwede ang offline access
 
-Offline access will **not work** if:
+Hindi gagana ang offline access kung:
 
-- You have never logged in online before
+- First time mo pa lang mag-login
     
-- You logged out and have not reconnected online
+- Kakalog-out mo lang at hindi ka pa ulit nakakalogin online
     
-- The app was newly installed and not yet authenticated
+- Bagong install ang app at hindi pa authenticated
     
 
 > ⚠️ **Important**  
-> First-time login **must be done while connected to the internet**.
+> Ang **unang login ay kailangang may internet connection**.
 
 ---
 
-### Best practices for login
+## Best Practices sa Login
 
-- Always confirm you are logged in to the **correct branch**
+- Laging i-check kung **tamang branch** ang napili
     
-- Do not share your username or password
+- Huwag i-share ang **username at password**
     
-- If login fails, check your internet connection first
+- Kapag hindi makapag-login, i-check muna ang internet connection
     
-- Contact your supervisor or support if you cannot log in
+- I-report agad sa supervisor o support kung may login issue
     
 
 ---
 
-### What happens after login
+## Ano ang pwede gawin pagkatapos mag-login
 
-Once logged in, you can:
+Kapag naka-login na, pwede ka nang:
 
-- Create new orders
+- Mag-create at mag-send ng **sales orders**
     
-- Add items and services
+- Mag-update ng **inventory**
     
-- Process payments
+- Mag-record ng **expenses at daily reports**
     
-- Continue working even if the connection becomes unstable (after initial login)
+- Gumamit ng **Requisition, Inventory, at Sold Out / Z-Reading**
+    
+- Magpatuloy magtrabaho kahit maging unstable ang internet  
+    _(basta nakapag-login na online)_
