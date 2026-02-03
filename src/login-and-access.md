@@ -1,4 +1,4 @@
-# Login and Access
+<img width="1470" height="956" alt="image" src="https://github.com/user-attachments/assets/7a24e38b-547d-41b7-b164-1e92829764fd" /># Login and Access
 
 Para magamit ang **MH SOAR+ Next**, kailangan munang mag-login gamit ang **assigned credentials**.
 
@@ -10,8 +10,10 @@ Ginagawa ito para:
 ---
 
 ## Paano mag-login sa MH SOAR+ Next
-
-![Login Video](videos/login-and-access.mp4)
+<video controls width="100%" playsinline>
+  <source src="videos/login-and-access.mp4" type="video/mp4">
+  Your browser does not support the video tag.
+</video>
 
 
 Sundin ang mga steps na ito:
