@@ -11,9 +11,8 @@ Ginagawa ito para:
 
 ## Paano mag-login sa MH SOAR+ Next
 
-<video width="100%" controls preload="metadata">
-  <source src="videos/login-and-access.mp4" type="video/mp4">
-</video>
+![Login Video](videos/login-and-access.mp4)
+
 
 Sundin ang mga steps na ito:
 
