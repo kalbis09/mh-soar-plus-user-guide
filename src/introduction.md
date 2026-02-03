@@ -1,70 +1,52 @@
-# What is MH-SOAR+?
+# Ano ang MH SOAR+ Next?
 
-**MH-SOAR+** is the system used by stores to **create orders, manage payments, and track what happens after checkout**.
+**MH-SOAR+** ay ang system na ginagamit ng store para sa **daily operations** tulad ng:
 
-It replaces manual processes and helps store crews work **faster, more accurately, and with fewer errors**.
+- paggawa ng orders    
+- pag-process ng payments
+- pag-record ng sales at inventory
+
+Ginawa ito para **mas mabilis**, **mas accurate**, at **mas konti ang errors** sa store operations.
 
 ---
 
-### What MH-SOAR+ is used for
+### Saan ginagamit ang MH SOAR+ Next?
 
-Store crews use MH-SOAR+ to:
+Ginagamit ng **store crews** ang **MH-SOAR+** para sa **daily store operations**, tulad ng:
 
-- Create customer orders
-    
-- Add items and services to an order
-    
-- Review order details before checkout
-    
-- Process customer payments
-    
-- Track order status after checkout
-    
-- Print or view receipts when needed
+- Pag-create ng **sales order records**
+- Pag-tala ng mga **expenses**
+- Pag-review ng **sales order reports**
+- Pag-update at pag-add ng **inventory records**
     
 
 ---
 
-### Who uses MH-SOAR+?
-
-MH-SOAR+ is designed for:
-
-- **Store crews** – daily order creation and payment processing
-    
-- **Cashiers** – handling checkout and payments
-    
-- **Supervisors / Managers** – monitoring order progress and resolving issues
-    
-
-Each role may see slightly different screens, but the **core flow is the same**.
+Ang **MH SOAR+ Next** ay dinisenyo para sa iba’t ibang roles na involved sa store at order operations.
 
 ---
 
-### What MH-SOAR+ is _not_
-
-To avoid confusion:
-
-- MH-SOAR+ is **not** an accounting system
-    
-- MH-SOAR+ is **not** used to edit prices or service rules
-    
-- MH-SOAR+ is **not** for customer self-use
-    
-
-It is a **store operations tool** focused on order processing.
+- **Store Crews**  
+    - Pag-create at pag-send ng **sales orders**    
+    - Pag-update ng **inventory**
+    - Pag-request ng stocks mula sa warehouse (**requisition**)      
 
 ---
 
-### Why MH-SOAR+ is important
+- **Supervisors / Managers**  
+    - Pag-monitor ng **sales order**
+    - Pag-edit at pag-manage ng **templates** (sales, expenses, requisition, inventory)
+        
+---
 
-Using MH-SOAR+ helps the store to:
+- **Warehouse Man**  
+    - Makita ang **picklist** at **packlist** ng orders
+    - Ihanda ang items para ilipat sa **staging area**
+    - Ihanda ang orders para sa delivery
+        
+---
 
-- Reduce manual errors
-    
-- Speed up checkout
-    
-- Ensure orders are properly recorded
-    
-- Keep payment and order data consistent
-    
-- Support smoother store testing and daily operations
+- **Delivery Man**  
+    - Pag-view ng **orders for delivery**
+    - Pag-complete ng deliveries
+    - Pag-capture ng **signature proof** bilang confirmation
